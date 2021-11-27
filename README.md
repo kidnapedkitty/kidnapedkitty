@@ -7,5 +7,7 @@ _`Proficient: Python, C/C++, Java, JavaScript`_
 
 ## :wedding: 'bout me
  _I am a pretty student of Astana IT University, whose name is Islam. Age: 17 y.o._
+
  _I have experience in cross-platform development, back-end development, front-end development(yeah, u'r right, I am a full-stack developer)_
+ 
 _At the moment I am combining study and work, I would be glad to see your support on this platform ^^_
