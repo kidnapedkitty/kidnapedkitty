@@ -6,6 +6,7 @@ ___
 _I turn coffee into code, luv my grl, luv my codes, constantly develop_
 
 _`Proficient: Python, C/C++, Java, JavaScript`_
+
 _`certificated by CISCO Networking Academy and GB community`_
 
 ## :wedding: 'bout me
