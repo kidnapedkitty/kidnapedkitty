@@ -1,5 +1,5 @@
 # :octocat: welcome
-[![vvs](https://tenor.com/view/anime-sad-emotional-crying-tears-gif-17441938)](https://www.instagram.com/vvsalwayscodin/)
+[![vvs](https://data.whicdn.com/images/254945953/original.gif)](https://www.instagram.com/vvsalwayscodin/)
 
 _click on the picture above^^_
 ___
