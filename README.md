@@ -1,5 +1,5 @@
 # :octocat: welcome
-[![vvs](https://c.tenor.com/R8wjCxS2MCgAAAAC/oreki-black-and-white-wind.gif)](https://www.instagram.com/vvsalwayscodin/)
+[![vvs](https://tenor.com/view/anime-sad-emotional-crying-tears-gif-17441938)](https://www.instagram.com/vvsalwayscodin/)
 
 _click on the picture above^^_
 ___
