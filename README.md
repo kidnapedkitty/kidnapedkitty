@@ -18,7 +18,7 @@ _At the moment I am combining study and work, I would be glad to see your suppor
 
 ## Badges:
 ![CISCO](https://img.shields.io/badge/-CISCO-090909?style=for-the-badge&logo=cisco)
-![AITU](https://img.shields.io/badge/-AITU-090909?style=for-the-badge&logo=https://astanait.edu.kz/wp-content/uploads/2020/05/aitu-logo-3.png)
+[![AITU](https://img.shields.io/badge/-AITU-090909?style=for-the-badge&logo=https://astanait.edu.kz/wp-content/uploads/2020/05/aitu-logo-3.png)](https://astanait.edu.kz/)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=blueviolet)
 ![JAVA](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C%2b%2b-090909?style=for-the-badge&logo=c%2b%2b&logoColor=ff69b4)
