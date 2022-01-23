@@ -10,7 +10,7 @@ _`Proficient: Python, C/C++, Java, JavaScript`_
 _`certificated by CISCO Networking Academy and GB community`_
 
 ## :wedding: 'bout me
- _I am a pretty student of Astana IT University, whose name is Islam. Age: 17 y.o._
+ _I am a pretty student of Astana IT University, whose name is Islam. Age: 17_
 
  _I have experience in cross-platform development, back-end development, front-end development(yeah, u'r right, I am a full-stack developer), but now I am studying in the direction of information security_
 
