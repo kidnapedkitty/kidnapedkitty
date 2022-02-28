@@ -7,7 +7,7 @@ _I turn coffee into code, luv my grl, luv my codes, constantly develop_
 
 _`Proficient: Python, C/C++, Java, JavaScript`_
 
-_`certificated by CISCO Networking Academy and GB community`_
+_`certificated by CISCO Networking Academy`_
 
 ## :wedding: 'bout me
  _I am a pretty student of Astana IT University, whose name is Islam. Age: 17_
