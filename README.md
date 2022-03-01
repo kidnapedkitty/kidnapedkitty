@@ -1,5 +1,5 @@
 # :octocat: welcome
-[![vvs](https://data.whicdn.com/images/254945953/original.gif)](https://www.instagram.com/vvsalwayscodin/)
+[![vvs](https://data.whicdn.com/images/254945953/original.gif)](https://www.instagram.com/1prettyvvs/)
 
 _click on the picture above^^_
 ___
