@@ -5,7 +5,7 @@ _click on the picture above^^_
 ___
 _I turn coffee into code, luv my grl, luv my codes, constantly develop_
 
-_`Proficient: Python, Java, JavaScript, PHP`_
+_`Proficient: Python, Java, JavaScript, C/C++`_
 
 _`certificated by CISCO Networking Academy`_
 
