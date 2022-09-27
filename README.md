@@ -1,7 +1,6 @@
 # :octocat: welcome
 [![vvs](https://data.whicdn.com/images/254945953/original.gif)]
 
-_click on the picture above^^_
 ___
 _I turn coffee into code, luv my grl, luv my codes, constantly develop_
 
