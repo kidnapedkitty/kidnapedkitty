@@ -9,7 +9,7 @@ _`Proficient: Python`_
 _`certificated by CISCO Networking Academy`_
 
 ## :wedding: 'bout me
- _I am a pretty student of Astana IT University, whose name is Islam. Age: 18_
+ _I am a pretty student, whose name is Islam. Age: 18_
 
  _I have experience in back-end development_
 
