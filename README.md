@@ -2,7 +2,7 @@
 ![vvs](https://data.whicdn.com/images/254945953/original.gif)
 
 ___
-_I turn coffee into code, luv my grl, luv my codes, constantly develop_
+_I turn coffee into code, luv my grl, luv the world, constantly develop_
 
 _`Proficient: Python`_
 
