@@ -4,16 +4,13 @@
 ___
 _I turn coffee into code, luv my grl, luv the world, constantly develop_
 
-_`Proficient: Python`_
+_`Proficient: backend dev`_
 
 _`certificated by CISCO Networking Academy`_
 
 ## :wedding: 'bout me
- _I am a pretty student, whose name is Islam. Age: 18_
+ _I am a pretty dev, whose name is Islam. Age: 19_
 
- _I have experience in back-end development_
-
-_At the moment I am combining study and work, I would be glad to see your support on this platform ^^_
 
 ## contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-0C090A?style=for-the-badge&logo=Telegram&logoColor=0096FF)](https://t.me/vvsiceclu666)
