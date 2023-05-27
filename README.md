@@ -17,5 +17,5 @@ _At the moment I am combining study and work, I would be glad to see your suppor
 
 ## contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-0C090A?style=for-the-badge&logo=Telegram&logoColor=0096FF)](https://t.me/vvsiceclu666)
-[![Instagram](https://img.shields.io/badge/-Instagram-0C090A?style=for-the-badge&logo=Instagram&logoColor=9D00FF)](https://www.instagram.com/1hatevvs/)
+[![Instagram](https://img.shields.io/badge/-Instagram-0C090A?style=for-the-badge&logo=Instagram&logoColor=9D00FF)](https://www.instagram.com/kidnapedkitty/)
 [![GMail](https://img.shields.io/badge/-GMail-0C090A?style=for-the-badge&logo=Gmail&logoColor=)](mailto:vvsalwayscodin@gmail.com)
