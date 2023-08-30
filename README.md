@@ -36,10 +36,6 @@
   </a> 
   
 </p>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidnapedkitty&theme=react&layout=compact" />
-</p>
 <p align= "center">
   <a href=""><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
 </p>
