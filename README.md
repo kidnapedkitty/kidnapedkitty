@@ -1,11 +1,5 @@
 <h1 align="center"> Hi!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, I'm Islam <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
 
-<p align="center">
- <a href="https://instagram.com/kidnapedkitty" target="_blank"> 
-    <img src="https://c.tenor.com/R8wjCxS2MCgAAAAC/oreki-black-and-white-wind.gif" alt="image"/> 
-  </a> 
-</p>
-
 - <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> _I turn coffee into code, luv my laptop, luv the world, constantly develop_
 
 - <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> _Proficient: data science_
