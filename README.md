@@ -1,4 +1,9 @@
 <h1 align="center"> Welcome </h1>
+<p align="center">
+<img width="70%" height="auto" src="https://aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-3.gif" height="175px"/>
+</p>
+
+_I am a pretty student of SP Jain School of Global Management(Sydney), whose name is Islam. Age: 19_
 
 - <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> _I turn coffee into code, luv my laptop, luv the world, constantly develop_
 
