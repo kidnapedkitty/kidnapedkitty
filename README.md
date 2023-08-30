@@ -1,4 +1,4 @@
-<h1 align="center"> Hi!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, I'm Islam <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
+<h1 align="center"> Hi!  <a href=""><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, I'm Islam <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
 
 - <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> _I turn coffee into code, luv my laptop, luv the world, constantly develop_
 
@@ -41,5 +41,5 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidnapedkitty&theme=react&layout=compact" />
 </p>
 <p align= "center">
-  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
+  <a href=""><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
 </p>
