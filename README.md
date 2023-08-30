@@ -36,6 +36,3 @@
   </a> 
   
 </p>
-<p align= "center">
-  <a href=""><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
-</p>
